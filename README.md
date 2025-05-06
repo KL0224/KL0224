@@ -42,12 +42,3 @@ My name is Kiet, I am an UIT student. Currently a 2 -year student of computer sc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=keobuabao.github.io&theme=cobalt" />
 </a>
-
-<a href="https://github.com/vietnh1009/AirGesture/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/vietnh1009/Yolo-v2-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Yolo-v2-pytorch&theme=highcontrast" />
-</a>
