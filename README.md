@@ -38,7 +38,7 @@ My name is Kiet, I am an UIT student. Currently a 2 -year student of computer sc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=flapbybird.github.io&theme=onedark" />
 </a>    
-<a href="https://github.com/KL0224/keobuabao.github.io/">
+<a href="https://github.com/KL0224/Backpropagation_CNN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=keobuabao.github.io&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=Backpropagation_CNN&theme=cobalt" />
 </a>
