@@ -16,6 +16,14 @@ My name is Kiet, I am an UIT student. Currently a 2 -year student of computer sc
 ---
 [![](https://visitcount.itsvg.in/api?id=KL0224&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://github.com/KL0224/Chore_RAG/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=Chore_RAG&theme=gruvbox" />
+</a>    
+<a href="https://github.com/KL0224/WebsiteSale/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=WebsiteSal&theme=onedark" />
+</a>    
 <a href="https://github.com/KL0224/VisionProjects/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=VisionProjects&theme=radical" />
