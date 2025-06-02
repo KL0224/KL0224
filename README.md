@@ -22,7 +22,7 @@ My name is Kiet, I am an UIT student. Currently a 2 -year student of computer sc
 </a>    
 <a href="https://github.com/KL0224/WebsiteSale/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=WebsiteSal&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=WebsiteSale&theme=cobalt" />
 </a>    
 <a href="https://github.com/KL0224/VisionProjects/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
