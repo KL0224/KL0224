@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Kiet, I am an UIT student. Currently a 2 -year student of computer science. I have a deep love about the fields of machine learning, deep learartificial intelligence.. <br>
+My name is Kiet, I am an UIT student. Currently a 2 -year student of computer science. I have a deep love about the fields of machine learning, deep learning and artificial intelligence.. <br>
 ## 📫 How to reach me: 
 
 
