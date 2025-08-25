@@ -20,9 +20,9 @@ My name is Kiet, I am an UIT student. Currently a 2 -year student of computer sc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=Chore_RAG&theme=gruvbox" />
 </a>    
-<a href="https://github.com/KL0224/WebsiteSale/">
+<a href="https://github.com/KL0224/WebSale_Chatbot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=WebsiteSale&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KL0224&repo=WebSale_Chatbot&theme=cobalt" />
 </a>    
 <a href="https://github.com/KL0224/VisionProjects/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
